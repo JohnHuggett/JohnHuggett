@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnHuggett
+- 👋 Hi, I’m @John Huggett
 - 👀 I’m interested in ongoing learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on how to make this less complicated
