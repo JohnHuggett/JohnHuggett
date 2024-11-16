@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @John Huggett
-- 👀 I’m interested in ongoing learning
+ - 👋 Hi, I’m @John Huggett
+- 👀 I’m interested learning computer programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on how to make this less complicated
 - 📫 How to reach me through Github
