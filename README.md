@@ -1,6 +1,7 @@
 # About me
 - 👀 I’m interested learning computer programming
 
+-  I am interested in learning Python and setting up a Raspberry Pi
 - 💞️ I’m looking to collaborate on how to make this less complicated
 - 📫 How to reach me through Github
 - ⚡ Fun fact: I'm a beekeeper
