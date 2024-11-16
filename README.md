@@ -1,6 +1,6 @@
- - 👋 Hi, I’m @John Huggett
+# About me
 - 👀 I’m interested learning computer programming
-- 🌱 I’m currently learning python
+
 - 💞️ I’m looking to collaborate on how to make this less complicated
 - 📫 How to reach me through Github
 - ⚡ Fun fact: I'm a beekeeper
