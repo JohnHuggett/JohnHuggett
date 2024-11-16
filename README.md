@@ -1,4 +1,7 @@
 # About me
+
+- Things I am interested in
+
 - 👀 I’m interested learning computer programming
 
 -  I am interested in learning Python and setting up a Raspberry Pi
